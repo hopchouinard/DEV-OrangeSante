@@ -1,0 +1,30 @@
+{
+  "titre": "Propriétaire de Centre de Santé",
+  "description": "Entrepreneur dévoué avec une expertise dans la gestion de centres de santé et le développement de services de bien-être. J'ai une passion pour l'amélioration des soins de santé et je suis constamment à la recherche de nouvelles opportunités pour innover et améliorer les services de santé. Mon expérience en tant que directeur de clinique m'a permis de développer des compétences solides en gestion quotidienne, en supervision du personnel et en amélioration des processus opérationnels. En tant que consultant en gestion de santé, j'ai fourni des conseils stratégiques pour optimiser les services de santé et mettre en œuvre des technologies innovantes. Je suis également un visionnaire et un leader empathique, capable de motiver et d'inspirer les autres. Mes domaines de connaissances incluent la gestion de la santé, l'innovation en santé, la kinésiologie et la nutrition. J'ai obtenu un MBA en gestion de la santé, ce qui m'a donné une formation spécialisée en administration des affaires avec un focus sur le secteur de la santé. J'ai utilisé des outils tels que Salesforce Health Cloud et Tableau pour soutenir mes activités professionnelles.",
+  "experiences_de_travail": [
+    {
+      "titre": "Directeur de Clinique",
+      "description": "Gestion quotidienne d'une clinique médicale, supervision du personnel et amélioration des processus opérationnels.",
+      "date_debut": "Février 2014",
+      "date_fin": "Décembre 2017"
+    },
+    {
+      "titre": "Consultant en Gestion de Santé",
+      "description": "Fourniture de conseils stratégiques pour l'optimisation des services de santé et l'implémentation de technologies innovantes.",
+      "date_debut": "Janvier 2018",
+      "date_fin": "En cours"
+    }
+  ],
+  "qualites": ["Visionnaire", "Empathique"],
+  "traits_de_caractere": ["Entrepreneur", "Attentif"],
+"domaines_de_connaissances": ["Gestion de la Santé", "Innovation en Santé", "Kinésiologie", "Nutrition"],
+  "education": [
+    {
+      "titre": "MBA en Gestion de la Santé",
+      "description": "Formation spécialisée en administration des affaires avec un focus sur le secteur de la santé.",
+      "date_debut": "Septembre 2010",
+      "date_fin": "Juin 2013"
+    }
+  ],
+  "outils_utilises": ["Salesforce Health Cloud", "Tableau"]
+}

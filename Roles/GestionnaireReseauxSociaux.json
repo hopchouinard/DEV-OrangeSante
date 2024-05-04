@@ -1,0 +1,30 @@
+{
+  "titre": "Gestionnaire de Réseau Social Sénior",
+  "description": "Expert en médias sociaux avec une expérience significative dans la gestion de communautés en ligne et la stratégie de contenu.",
+  "experiences_de_travail": [
+    {
+      "titre": "Coordinateur des Médias Sociaux",
+      "description": "Responsable de la planification et de l'exécution des campagnes sur les plateformes sociales, et de l'analyse de leur performance.",
+      "date_debut": "Mai 2016",
+      "date_fin": "Août 2019"
+    },
+    {
+      "titre": "Stratège en Médias Sociaux",
+      "description": "Développement de stratégies de contenu innovantes pour augmenter l'engagement et la portée de la marque.",
+      "date_debut": "Septembre 2019",
+      "date_fin": "En cours"
+    }
+  ],
+  "qualites": ["Leadership", "Créativité"],
+  "traits_de_caractere": ["Communicatif", "Proactif"],
+  "domaines_de_connaissances": ["Marketing Digital", "Analyse de Données"],
+  "education": [
+    {
+      "titre": "Baccalauréat en Communication et Médias Sociaux",
+      "description": "Études spécialisées dans la communication digitale et les médias sociaux.",
+      "date_debut": "Septembre 2012",
+      "date_fin": "Juin 2016"
+    }
+  ],
+"outils_utilises": ["Hootsuite", "Google Analytics", "Buffer", "Sprout Social"]
+}

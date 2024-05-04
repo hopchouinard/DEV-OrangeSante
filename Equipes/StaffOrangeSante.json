@@ -1,0 +1,129 @@
+{
+    "nom": "Staff Orange Santé",
+    "membres": [
+        {
+            "role": "Gestionnaire de Reseaux Sociaux",
+            "titre": "Gestionnaire de Réseau Social Sénior",
+            "description": "Expert en médias sociaux avec une expérience significative dans la gestion de communautés en ligne et la stratégie de contenu.",
+            "experiences_de_travail": [
+            {
+                "titre": "Coordinateur des Médias Sociaux",
+                "description": "Responsable de la planification et de l'exécution des campagnes sur les plateformes sociales, et de l'analyse de leur performance.",
+                "date_debut": "Mai 2016",
+                "date_fin": "Août 2019"
+            },
+            {
+                "titre": "Stratège en Médias Sociaux",
+                "description": "Développement de stratégies de contenu innovantes pour augmenter l'engagement et la portée de la marque.",
+                "date_debut": "Septembre 2019",
+                "date_fin": "En cours"
+            }
+        ],
+        "qualites": ["Leadership", "Créativité"],
+        "traits_de_caractere": ["Communicatif", "Proactif"],
+        "domaines_de_connaissances": ["Marketing Digital", "Analyse de Données"],
+        "education": [
+        {
+            "titre": "Baccalauréat en Communication et Médias Sociaux",
+            "description": "Études spécialisées dans la communication digitale et les médias sociaux.",
+            "date_debut": "Septembre 2012",
+            "date_fin": "Juin 2016"
+        }
+        ],
+        "outils_utilises": ["Hootsuite", "Google Analytics", "Buffer", "Sprout Social"]
+        },
+        {
+            "role": "Kinesiologue",
+            "titre": "Kinésiologue Clinique",
+            "description": "Spécialiste de la kinésiologie appliquée à la réhabilitation et à l'amélioration de la performance physique.",
+            "experiences_de_travail": [
+            {
+                "titre": "Thérapeute en Réadaptation Physique",
+                "description": "Élaboration de programmes de réadaptation personnalisés pour les patients se remettant de blessures musculo-squelettiques.",
+                "date_debut": "Avril 2017",
+                "date_fin": "Mars 2020"
+            },
+            {
+                "titre": "Consultant en Kinésiologie",
+                "description": "Conseil auprès d'athlètes professionnels pour optimiser leur entraînement et prévenir les blessures.",
+                "date_debut": "Avril 2020",
+                "date_fin": "En cours"
+            }
+        ],
+        "qualites": ["Observateur", "Innovant"],
+        "traits_de_caractere": ["Patient", "Dynamique"],
+        "domaines_de_connaissances": ["Biomecanique", "Physiologie de l'Exercice"],
+        "education": [
+        {
+            "titre": "Maîtrise en Kinésiologie",
+            "description": "Études avancées en mouvement humain et en thérapies de réadaptation.",
+            "date_debut": "Septembre 2013",
+            "date_fin": "Juin 2017"
+        }
+        ],
+        "outils_utilises": ["Vicon Motion Systems", "Accuniq BC380"]
+        },
+        {
+            "role": "Nutrisioniste",
+            "titre": "Nutritionniste Clinique",
+            "description": "Professionnel de la santé spécialisé dans l'évaluation des besoins nutritionnels et le développement de plans alimentaires personnalisés.",
+            "experiences_de_travail": [
+                {
+                "titre": "Consultant en Nutrition",
+                "description": "Évaluation des habitudes alimentaires des clients et création de régimes nutritionnels adaptés à leurs objectifs de santé.",
+                "date_debut": "Mars 2015",
+                "date_fin": "Juillet 2018"
+                },
+                {
+                "titre": "Nutritionniste en Hôpital",
+                "description": "Collaboration avec des équipes médicales pour intégrer la nutrition dans les plans de traitement des patients.",
+                "date_debut": "Août 2018",
+                "date_fin": "En cours"
+                }
+            ],
+            "qualites": ["À l'écoute", "Détail", "Organisé", "Créatif"],
+            "traits_de_caractere": ["Empathique", "Analytique"],
+            "domaines_de_connaissances": ["Diététique", "Biochimie Nutritionnelle"],
+            "education": [
+                {
+                "titre": "Licence en Nutrition et Diététique",
+                "description": "Formation approfondie sur les principes de la nutrition et la gestion diététique.",
+                "date_debut": "Septembre 2011",
+                "date_fin": "Juin 2015"
+                }
+            ],
+            "outils_utilises": ["MyFitnessPal", "NutriAdmin"]
+        },
+        {
+            "role": "Propriétaire de Centre de Santé",
+            "titre": "Propriétaire de Centre de Santé",
+            "description": "Entrepreneur dévoué avec une expertise dans la gestion de centres de santé et le développement de services de bien-être. J'ai une passion pour l'amélioration des soins de santé et je suis constamment à la recherche de nouvelles opportunités pour innover et améliorer les services de santé. Mon expérience en tant que directeur de clinique m'a permis de développer des compétences solides en gestion quotidienne, en supervision du personnel et en amélioration des processus opérationnels. En tant que consultant en gestion de santé, j'ai fourni des conseils stratégiques pour optimiser les services de santé et mettre en œuvre des technologies innovantes. Je suis également un visionnaire et un leader empathique, capable de motiver et d'inspirer les autres. Mes domaines de connaissances incluent la gestion de la santé, l'innovation en santé, la kinésiologie et la nutrition. J'ai obtenu un MBA en gestion de la santé, ce qui m'a donné une formation spécialisée en administration des affaires avec un focus sur le secteur de la santé. J'ai utilisé des outils tels que Salesforce Health Cloud et Tableau pour soutenir mes activités professionnelles.",
+            "experiences_de_travail": [
+                {
+                "titre": "Directeur de Clinique",
+                "description": "Gestion quotidienne d'une clinique médicale, supervision du personnel et amélioration des processus opérationnels.",
+                "date_debut": "Février 2014",
+                "date_fin": "Décembre 2017"
+                },
+                {
+                "titre": "Consultant en Gestion de Santé",
+                "description": "Fourniture de conseils stratégiques pour l'optimisation des services de santé et l'implémentation de technologies innovantes.",
+                "date_debut": "Janvier 2018",
+                "date_fin": "En cours"
+                }
+            ],
+            "qualites": ["Visionnaire", "Empathique"],
+            "traits_de_caractere": ["Entrepreneur", "Attentif"],
+            "domaines_de_connaissances": ["Gestion de la Santé", "Innovation en Santé", "Kinésiologie", "Nutrition"],
+            "education": [
+                {
+                "titre": "MBA en Gestion de la Santé",
+                "description": "Formation spécialisée en administration des affaires avec un focus sur le secteur de la santé.",
+                "date_debut": "Septembre 2010",
+                "date_fin": "Juin 2013"
+                }
+            ],
+            "outils_utilises": ["Salesforce Health Cloud", "Tableau"]
+        }
+    ]
+}

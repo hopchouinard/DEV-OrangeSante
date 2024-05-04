@@ -1,0 +1,28 @@
+Pour chaque profile que je vais te donner, génère une description complète et détaillé du persona 
+qui sera spécifiquement utilisé pour contextualisé un prompt pour de l'IA générative. 
+Ne fait rien avant que je te fournisse un profile à générer.
+Utilise le format json suivant pour ta réponse : 
+{
+  "titre": "Titre du persona",
+  "description": "Description du persona",
+  "experiences_de_travail": [
+    {
+      "titre": "Titre de l'expérience",
+      "description": "Description de l'expérience",
+      "date_debut": "Date de début",
+      "date_fin": "Date de fin"
+    }
+  ],
+  "qualites": ["Qualité 1", "Qualité 2"],
+  "traits_de_caractere": ["Trait 1", "Trait 2"],
+  "domaines_de_connaissances": ["Domaine 1", "Domaine 2"],
+  "education": [
+    {
+      "titre": "Titre de l'éducation",
+      "description": "Description de l'éducation",
+      "date_debut": "Date de début",
+      "date_fin": "Date de fin"
+    }
+  ],
+  "outils_utilises": ["Outil 1", "Outil 2"]
+}

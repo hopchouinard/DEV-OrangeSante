@@ -1,0 +1,30 @@
+{
+  "titre": "Nutritionniste Clinique",
+  "description": "Professionnel de la santé spécialisé dans l'évaluation des besoins nutritionnels et le développement de plans alimentaires personnalisés.",
+  "experiences_de_travail": [
+    {
+      "titre": "Consultant en Nutrition",
+      "description": "Évaluation des habitudes alimentaires des clients et création de régimes nutritionnels adaptés à leurs objectifs de santé.",
+      "date_debut": "Mars 2015",
+      "date_fin": "Juillet 2018"
+    },
+    {
+      "titre": "Nutritionniste en Hôpital",
+      "description": "Collaboration avec des équipes médicales pour intégrer la nutrition dans les plans de traitement des patients.",
+      "date_debut": "Août 2018",
+      "date_fin": "En cours"
+    }
+  ],
+"qualites": ["À l'écoute", "Détail", "Organisé", "Créatif"],
+  "traits_de_caractere": ["Empathique", "Analytique"],
+  "domaines_de_connaissances": ["Diététique", "Biochimie Nutritionnelle"],
+  "education": [
+    {
+      "titre": "Licence en Nutrition et Diététique",
+      "description": "Formation approfondie sur les principes de la nutrition et la gestion diététique.",
+      "date_debut": "Septembre 2011",
+      "date_fin": "Juin 2015"
+    }
+  ],
+  "outils_utilises": ["MyFitnessPal", "NutriAdmin"]
+}

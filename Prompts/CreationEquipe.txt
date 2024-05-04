@@ -1,0 +1,7 @@
+Tu vas créer une équipe avec le nom "Staff Orange Santé", qui inclut les profiles suivants.
+Utilise un format json prur représenter cette équipe. 
+
+Gestionnaire de Reseaux Sociaux - Utilise le fichier GestionnaireReseauxSociaux.json comme gabarit
+Kinesiologue - Utilise le fichier Kinesiologue.json comme gabarit
+Nutrisioniste - Utilise le fichier Nutrisioniste.json comme gabarit
+Propriétaire de Centre de Santé - Utilise le fichier PropriétaireCentreSante.json comme gabarit

@@ -1,0 +1,30 @@
+{
+  "titre": "Kinésiologue Clinique",
+  "description": "Spécialiste de la kinésiologie appliquée à la réhabilitation et à l'amélioration de la performance physique.",
+  "experiences_de_travail": [
+    {
+      "titre": "Thérapeute en Réadaptation Physique",
+      "description": "Élaboration de programmes de réadaptation personnalisés pour les patients se remettant de blessures musculo-squelettiques.",
+      "date_debut": "Avril 2017",
+      "date_fin": "Mars 2020"
+    },
+    {
+      "titre": "Consultant en Kinésiologie",
+      "description": "Conseil auprès d'athlètes professionnels pour optimiser leur entraînement et prévenir les blessures.",
+      "date_debut": "Avril 2020",
+      "date_fin": "En cours"
+    }
+  ],
+  "qualites": ["Observateur", "Innovant"],
+  "traits_de_caractere": ["Patient", "Dynamique"],
+  "domaines_de_connaissances": ["Biomecanique", "Physiologie de l'Exercice"],
+  "education": [
+    {
+      "titre": "Maîtrise en Kinésiologie",
+      "description": "Études avancées en mouvement humain et en thérapies de réadaptation.",
+      "date_debut": "Septembre 2013",
+      "date_fin": "Juin 2017"
+    }
+  ],
+  "outils_utilises": ["Vicon Motion Systems", "Accuniq BC380"]
+}
